@@ -1,0 +1,5 @@
+# for all images
+images/
+
+# for jquery file
+jquery-3.6.4.slim.js
